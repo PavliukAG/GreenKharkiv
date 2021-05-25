@@ -1,4 +1,4 @@
 
-BOT_TOKEN = ""
+BOT_TOKEN = "1807683717:AAEKhsdSv0Rw0NVcOJaTe_X36gIHnyafN18"
 
 DATABASE_PATH = "GreenKharkiv.sqlite"
