@@ -1,4 +1,3 @@
 pyTelegramBotApi==3.7.9
-telebot
-pysql
+
 
